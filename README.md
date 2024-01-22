@@ -1,25 +1,49 @@
-# Welcome to CMSC 475!
+# p5.js Centered Text Box
 
-Homework 1 offers practice with the workflow that we'll be using for all homework assignments
-in this class.
+## Introduction
+This project is a simple p5.js sketch that creates a grey box on a canvas with centered text displaying a name, class, and date. It's designed to demonstrate basic p5.js functionality including canvas creation, shapes, and text rendering.
 
-This repository is a git [fork](https://docs.github.com/en/pull-requests/collaborating-with-pull-requests/working-with-forks/about-forks) of a template created by the instructor.
+## Table of Contents
+- [Installation](#installation)
+- [Usage](#usage)
+- [Features](#features)
+- [Code Structure](#code-structure)
+- [Contributing](#contributing)
+- [License](#license)
+- [Contact](#contact)
 
-For this assignment:
+## Installation
+To run this project, you'll need to have p5.js library included in your HTML file. You can download it or link to it directly.
 
-1. you'll be installing software tools listed in the [homework 1 description on Canvas](https://virginiacommonwealth.instructure.com/courses/93957/assignments/853460?module_item_id=3241421).  Then,
+```html
+<script src="https://cdnjs.cloudflare.com/ajax/libs/p5.js/1.4.0/p5.js"></script>
+```
 
-2. You'll be rendering the *example-1.qmd* file found in the *hw1* folder of this repository.  This contains an example
-of many different styles of embedding.
+Clone the repository and open the `index.html` in a web browser.
 
-3. You'll be updating the *homework-1.qmd* file found in the *hw1* folder of this repository.  Instructions for updating the file can be found in the file itself.
+```bash
+git clone https://github.com/cmsc-vcu/cmsc475-sp2024-hw1-zachmcd09.git
+cd p5js-centered-text-box
+```
 
-4. Once updated, you'll need to *render* the *QMD* file to create *homework-1.html* file.
+## Usage
+After opening `index.html` in your browser, you should see a grey box with text aligned in the center. The text will display a default name, class, and the current date.
 
-5. Once rendered, you'll be uploading *homework-1.html* to Canvas.
+## Features
+- Responsive grey box that fits the canvas.
+- Centered text that adjusts based on the canvas size.
+- Dynamic date display.
 
-6. You'll also be submitting this repository (be sure to commit and push your changes) to Gradescope.
+## Code Structure
+The project consists of three main files:
+- `homework-1.html`: The HTML file that loads the p5.js script.
+- `sketch.js`: Contains the p5.js code for rendering the sketch.
 
-7. Finally, don't forget to introduce yourself in the [course discussion](https://virginiacommonwealth.instructure.com/courses/93957/discussion_topics/712041) on Canvas!
+## Contributing
+If you would like to contribute to this project, please fork the repository and make a pull request with your changes. All contributions are welcome!
 
+## License
+This project is open-source and available under the [VCU License].
 
+## Contact
+For questions or support, please [open an issue](https://github.com/zachmcd09/) in the GitHub repository.
