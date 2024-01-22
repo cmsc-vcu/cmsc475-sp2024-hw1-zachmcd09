@@ -1,6 +1,6 @@
 ---
 title: Homework Assignment 1
-author: Drop your name here
+author: Zachariah McDonough
 date: last-modified
 format:
   html:
@@ -53,7 +53,7 @@ Once you create your account, experiment around until you create an image that l
 
 <center>
 <iframe
-src="https://editor.p5js.org/jleonard99/full/czZsouwoG"
+src="https://editor.p5js.org/zachmcd09/full/xw0cApfl8"
 width=400
 height=250
 data-external="1"
@@ -80,3 +80,4 @@ data-external="1"
 # Reflection
 
 (remove this text and add a reflection of your own.  What did you like about this assignment?  What was difficult?  What would you do different?)
+This was a pretty good homework assignment to start with. Getting a basic feel for JS brings me back to HTML. I had the opportunity to build a website using a GUI editor but didn't implement a proper structure for the menu bar at one point. This error caused many wasted hours on catactlysmic changes as I was making changes and had to ensure compatibility of 4 pages across 6 different resolutions... I hope this class will help me have a foundamental understanding so I can create layered features that are dynamic.
