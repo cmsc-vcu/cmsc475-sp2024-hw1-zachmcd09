@@ -9,15 +9,7 @@ format:
     embed-resources: true
 ---
 
-(delete the following paragraphs)
-Welcome to homework assignment 1!  For most homework assignments in this class, you'll be submitting quarto-generated HTML reports documenting your work.
-
-For this assignment, you'll be documenting that you installed the necessary software by embedding a screen shot of your terminal window, showing the appropriate versions of the software.
-
-You'll also be embedding URLs taken from several web sites that we'll be using as part of our exploration of user interface design this semester.
-(delete the paragraphs above)
-
-(Remove the paragraphs above and add a description of this project in your own words.)
+This projects helps us get familiar with the basic look and feel of js. Reminds me of html but more digestable. This will make a light grey box with 3 lines of blact text with my name, the course code, and date. 
 
 # Software Installation
 
@@ -79,5 +71,4 @@ data-external="1"
 
 # Reflection
 
-(remove this text and add a reflection of your own.  What did you like about this assignment?  What was difficult?  What would you do different?)
 This was a pretty good homework assignment to start with. Getting a basic feel for JS brings me back to HTML. I had the opportunity to build a website using a GUI editor but didn't implement a proper structure for the menu bar at one point. This error caused many wasted hours on catactlysmic changes as I was making changes and had to ensure compatibility of 4 pages across 6 different resolutions... I hope this class will help me have a foundamental understanding so I can create layered features that are dynamic.
