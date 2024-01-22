@@ -1,0 +1,82 @@
+---
+title: Homework Assignment 1
+author: Drop your name here
+date: last-modified
+format:
+  html:
+    html-math-method: katex
+    smooth-scroll: true
+    embed-resources: true
+---
+
+(delete the following paragraphs)
+Welcome to homework assignment 1!  For most homework assignments in this class, you'll be submitting quarto-generated HTML reports documenting your work.
+
+For this assignment, you'll be documenting that you installed the necessary software by embedding a screen shot of your terminal window, showing the appropriate versions of the software.
+
+You'll also be embedding URLs taken from several web sites that we'll be using as part of our exploration of user interface design this semester.
+(delete the paragraphs above)
+
+(Remove the paragraphs above and add a description of this project in your own words.)
+
+# Software Installation
+
+Yes, I installed the necessary software.  Below is a screen shot showing the versions of the software that I've got running on my machine.  These programs are all on the PATH and can all be run from the command line, too!
+
+![](assets/cmsc475-sp2024-hw1-versions.png)
+
+**Instructions***: *Your job is to modify the [markdown image link](https://quarto.org/docs/authoring/markdown-basics.html#links-images) above with an image that you create.  I generally store images in an *assets* fomder directly under the folder containing my main report folders.*
+
+We'll be looking that you installed and can run from the command line:
+
+1. quarto
+1. code (visual studio code)
+1. git
+1. gh
+1. pyenv
+1. poetry
+1. python
+
+# Setting up accounts
+
+As part of homework assignment 1, you'll also need to create a few accounts.
+
+As part of this homework assignment, you'll be embedding URLs to demonstrate that you've got your accounts!.
+
+## P5JS
+
+P5.js is a JavaScript library that simplifies creative coding and interactive visual design. It provides a framework for teaching UI design by enabling students to easily create and manipulate graphics, animations, and interactive elements within web applications. With its intuitive syntax and built-in drawing functions, P5.js empowers learners to experiment with user interface concepts, fostering a hands-on approach to understanding UI design principles and techniques.
+
+The first two modules of the course will leverage the [P5JS](https://p5js.org/) framework.  To get started, you'll need to visit the site and [create an account](https://editor.p5js.org/signup).
+
+Once you create your account, experiment around until you create an image that looks like the one below.
+
+<center>
+<iframe
+src="https://editor.p5js.org/jleonard99/full/czZsouwoG"
+width=400
+height=250
+data-external="1"
+></iframe>
+</center>
+
+**Instructions:** Your job is to modify the *src* tag above with a screen that reflects that you created your account and modified the code with your name.
+
+## EXPO and snacks
+
+Yes, I set up my expo account and created a sample expo application.  Below is a link to my customized app.
+
+<center>
+<iframe 
+src="https://appetize.io/embed/8bnmakzrptf1hv9dq7v7bnteem?autoplay=false&debug=true&device=iphone12&deviceColor=black&embed=true&orientation=portrait&scale=72&screenOnly=false&xDocMsg=true&xdocMsg=true&params=%7B%22EXDevMenuDisableAutoLaunch%22%3Atrue%2C%22EXKernelLaunchUrlDefaultsKey%22%3A%22exp%3A%2F%2Fexp.host%2F%40jleonard99%2Fhomework-1-example%2B9!6OAJyXQN%22%2C%22EXKernelDisableNuxDefaultsKey%22%3Atrue%7D"
+width="100%" 
+height="700" 
+frameborder="0" 
+scrolling="no"
+data-external="1"
+></iframe>
+</center>
+
+# Reflection
+
+(remove this text and add a reflection of your own.  What did you like about this assignment?  What was difficult?  What would you do different?)
